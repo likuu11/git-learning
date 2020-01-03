@@ -5,3 +5,5 @@ Whey
 Almonds
 Flax seeds
 Brown rice
+
+Done with the first version 1.1
